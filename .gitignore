@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+~$*
+fraud_project_final.ipynb
+ML Final Project.docx
